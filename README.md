@@ -1,5 +1,8 @@
 # book-inventory-system
 
+### Showcase
+<img src="./showcase.gif" width="1024">
+
 ### About project
 This project is a book inventory system. it also has an admin panel Filament for viewing, creating, editing, deleting books and users.
 
