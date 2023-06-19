@@ -6,7 +6,7 @@
 ### About project
 This project is a book inventory system. it also has an admin panel Filament for viewing, creating, editing, deleting books and users.
 
-### Tools for launching the project
+### Requirements for launching the project
 To start the project, you will need:
 
 1. PHP >= **8.2.6**
