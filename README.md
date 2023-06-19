@@ -49,7 +49,7 @@ DB_PASSWORD=
    `docker exec -it book-inventory-system_laravel.test_1 bash`
     1. Give the correct access rights to the bootstrap folder:
 
-       `chmod -R 777 ./bootstrap`
+       `chmod 777 ./bootstrap`
     2. Generate App Key:
 
        `php artisan key:generate`
