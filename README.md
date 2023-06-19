@@ -12,9 +12,10 @@ To start the project, you will need:
 1. PHP >= **8.2.6**
 2. Laravel >= **10**
 3. Composer >= **2.3.7**
-4. Filament >= **2.17**
-5. Docker >= **20.10.18**
-6. Docker Compose >= **1.29.2**
+4. npm >= **8.5.1**
+5. Filament >= **2.17**
+6. Docker >= **20.10.18**
+7. Docker Compose >= **1.29.2**
 
 ### How to launch the project?
 1. Clone a repository:
